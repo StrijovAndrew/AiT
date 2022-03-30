@@ -1,0 +1,15 @@
+D:\My\Timus\bin\Debug\net6.0\Timus.exe
+D:\My\Timus\bin\Debug\net6.0\Timus.deps.json
+D:\My\Timus\bin\Debug\net6.0\Timus.runtimeconfig.json
+D:\My\Timus\bin\Debug\net6.0\Timus.dll
+D:\My\Timus\bin\Debug\net6.0\Timus.pdb
+D:\My\Timus\obj\Debug\net6.0\Timus.csproj.AssemblyReference.cache
+D:\My\Timus\obj\Debug\net6.0\Timus.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\Timus\obj\Debug\net6.0\Timus.AssemblyInfoInputs.cache
+D:\My\Timus\obj\Debug\net6.0\Timus.AssemblyInfo.cs
+D:\My\Timus\obj\Debug\net6.0\Timus.csproj.CoreCompileInputs.cache
+D:\My\Timus\obj\Debug\net6.0\Timus.dll
+D:\My\Timus\obj\Debug\net6.0\refint\Timus.dll
+D:\My\Timus\obj\Debug\net6.0\Timus.pdb
+D:\My\Timus\obj\Debug\net6.0\Timus.genruntimeconfig.cache
+D:\My\Timus\obj\Debug\net6.0\ref\Timus.dll
